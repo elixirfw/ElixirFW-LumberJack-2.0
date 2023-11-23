@@ -34,7 +34,7 @@ Now Drag and Drop the sound in interact-sound\client\html\sounds.
 ```
 
 ### QB-LOGS
-*If UseQBLogs = true then you have to add in qb-smallresources\server\logs.lua:
+* If UseQBLogs = true then you have to add in qb-smallresources\server\logs.lua:
 ```
 ['elixir-lumberjack'] = "YOUR_WEBHOOK",
 ```
