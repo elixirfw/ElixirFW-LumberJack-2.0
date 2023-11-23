@@ -33,7 +33,13 @@ Now Drag and Drop the Images into your qb-inventory/html/images.
 Now Drag and Drop the sound in interact-sound\client\html\sounds.
 ```
 
-# Notes
+### QB-LOGS
+*If UseQBLogs = true then you have to add in qb-smallresources\server\logs.lua:
+```
+['elixir-lumberjack'] = "YOUR_WEBHOOK",
+```
+
+### Notes
 - The script supports both Target and 3D Text interactions, providing flexibility for server administrators.
 - Server administrators can customize various aspects of the job, including item rewards, sound effects, and spawn locations.
 - Feel free to customize and integrate this lumberjack job script into your FiveM server using the QBCore framework. For more information, refer to the provided documentation.
