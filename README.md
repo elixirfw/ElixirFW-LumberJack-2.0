@@ -22,9 +22,15 @@ We've developed Lumberjack 2.0, offering enhanced script configurability. You no
 
 # How to install
 ### Put Item Images in qb-inventory
-* Go to ``images`` and copy all the images:
+* Go to ``elixir-lumberjack\extras`` and copy all the images:
 ```
 Now Drag and Drop the Images into your qb-inventory/html/images.
+```
+
+### Put Sound in interact-sound
+* Go to ``elixir-lumberjack\extras`` and copy the chainsaw sound:
+```
+Now Drag and Drop the sound in interact-sound\client\html\sounds.
 ```
 
 # Notes
