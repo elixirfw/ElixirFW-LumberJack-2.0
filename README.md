@@ -47,7 +47,7 @@ Now Drag and Drop the Images into your qb-inventory/html/images.
 ![Processed Wood](https://cdn.discordapp.com/attachments/627417439566561290/1177372559851933756/wood_proc.png)
 
 ### Config of elixir-lumberjack
-* [Config.lua](https://nl.gta5-mods.com/maps/mlo-pet-shop)
+* [Config.lua](https://github.com/elixirfw/ElixirFW-LumberJack-2.0/blob/main/config.lua)
 
 ### Support
 For issues join our [Discord](https://discord.gg/xfwUFXFpNR), and we will help you asap once you create a ticket or ask for help in general-support!
